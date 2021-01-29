@@ -1,0 +1,3 @@
+C:/Users/KyleR/OneDrive/Programming/CPSC221/221Lectures/Lec03/cmake-build-debug-remote/CMakeFiles/Lec03.dir
+C:/Users/KyleR/OneDrive/Programming/CPSC221/221Lectures/Lec03/cmake-build-debug-remote/CMakeFiles/edit_cache.dir
+C:/Users/KyleR/OneDrive/Programming/CPSC221/221Lectures/Lec03/cmake-build-debug-remote/CMakeFiles/rebuild_cache.dir

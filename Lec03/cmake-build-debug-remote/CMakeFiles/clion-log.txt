@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\KyleR\OneDrive\Programming\CPSC221\221Lectures\Lec03
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/KyleR/OneDrive/Programming/CPSC221/221Lectures/Lec03/cmake-build-debug-remote
